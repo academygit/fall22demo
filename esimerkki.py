@@ -1,2 +1,2 @@
 def esimerkki():
-    print("Moikka")
+    print("lol")
